@@ -1,0 +1,19 @@
+{
+  "name": "frontend_test11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@quasar/extras": "^1.16.17",
+    "@quasar/vite-plugin": "^1.9.0",
+    "quasar": "^2.17.7",
+    "sass-embedded": "^1.85.1"
+  }
+}
